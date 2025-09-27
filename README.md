@@ -226,7 +226,7 @@ VITE_SOCKET_URL=http://localhost:4000
 **Team Members:**
 - Rutvi Gohil(D24DCS178) - Backend Developer
 - Krisha Patel(23DCS79) - Frontend Developer
-- Drashti Gaikwad (D24DCS171) - UI/UX Designer & Datbase Management
+- Drashti Gaikwad (D24DCS171) - UI/UX Designer & Database Management
 
 **Roles and Responsibilities:**
 - Database Design & API Development
