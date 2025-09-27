@@ -48,7 +48,7 @@ A secure online polling system with real-time results, built with React, Node.js
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/KrishaPatel079/polling_system.git
 cd polling-system
 ```
 
